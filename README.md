@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adinathmk/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adinathmk/leet-code/tree/master/0027-remove-element) |
 | [1293-three-consecutive-odds](https://github.com/Adinathmk/leet-code/tree/master/1293-three-consecutive-odds) |
+| [1791-richest-customer-wealth](https://github.com/Adinathmk/leet-code/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/Adinathmk/leet-code/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Adinathmk/leet-code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Adinathmk/leet-code/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
