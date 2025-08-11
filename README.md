@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Adinathmk/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Adinathmk/leet-code/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Adinathmk/leet-code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Matrix
