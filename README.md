@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adinathmk/leet-code/tree/master/0001-two-sum) |
+| [1293-three-consecutive-odds](https://github.com/Adinathmk/leet-code/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
