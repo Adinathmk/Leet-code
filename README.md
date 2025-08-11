@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Adinathmk/leet-code/tree/master/0027-remove-element) |
 | [1293-three-consecutive-odds](https://github.com/Adinathmk/leet-code/tree/master/1293-three-consecutive-odds) |
 | [1791-richest-customer-wealth](https://github.com/Adinathmk/leet-code/tree/master/1791-richest-customer-wealth) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adinathmk/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Adinathmk/leet-code/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Adinathmk/leet-code/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -21,6 +22,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/Adinathmk/leet-code/tree/master/0742-to-lower-case) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adinathmk/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Adinathmk/leet-code/tree/master/3194-find-words-containing-character) |
 ## Queue
 |  |
