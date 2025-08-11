@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [0742-to-lower-case](https://github.com/Adinathmk/leet-code/tree/master/0742-to-lower-case) |
 ## Queue
 |  |
 | ------- |
