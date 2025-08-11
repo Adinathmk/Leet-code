@@ -31,4 +31,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adinathmk/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adinathmk/leet-code/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [2812-find-the-maximum-achievable-number](https://github.com/Adinathmk/leet-code/tree/master/2812-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
