@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adinathmk/leet-code/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Adinathmk/leet-code/tree/master/0027-remove-element) |
 | [1293-three-consecutive-odds](https://github.com/Adinathmk/leet-code/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Adinathmk/leet-code/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
