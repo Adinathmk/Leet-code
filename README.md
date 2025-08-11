@@ -9,4 +9,17 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adinathmk/leet-code/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
