@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Adinathmk/leet-code/tree/master/0027-remove-element) |
 | [1293-three-consecutive-odds](https://github.com/Adinathmk/leet-code/tree/master/1293-three-consecutive-odds) |
 | [1791-richest-customer-wealth](https://github.com/Adinathmk/leet-code/tree/master/1791-richest-customer-wealth) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Adinathmk/leet-code/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Adinathmk/leet-code/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
