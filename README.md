@@ -1,6 +1,7 @@
 # leet-code
-This repository contains my solutions to various **LeetCode** problems, automatically synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).  
-It serves as my personal archive and portfolio for practicing **data structures**, **algorithms**, and **problem-solving skills**.
+
+This repository contains my collection of **LeetCode** solutions, covering a variety of topics and difficulty levels.
+It serves as a portfolio of my skills in **data structures**, **algorithms**, and problem-solving, with each solution written for clarity, efficiency, and optimization.
 
 # LeetCode Topics
 ## Array
