@@ -12,6 +12,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adinathmk/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Adinathmk/leet-code/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Adinathmk/leet-code/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/Adinathmk/leet-code/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,16 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Adinathmk/leet-code/tree/master/1791-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Adinathmk/leet-code/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Adinathmk/leet-code/tree/master/3226-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Adinathmk/leet-code/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
