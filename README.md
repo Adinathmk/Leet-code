@@ -1,5 +1,25 @@
 # leet-code
-<!---LeetCode Topics Start-->
+# 🏆 My LeetCode Solutions
+
+This repository contains my solutions to various **LeetCode** problems, automatically synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).  
+It serves as my personal archive and portfolio for practicing **data structures**, **algorithms**, and **problem-solving skills**.
+
+---
+
+## 📊 Stats
+
+- **Total Problems Solved:** ![Solved](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=solved&query=solved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2F<YOUR_LEETCODE_USERNAME>)
+- **Languages Used:** JavaScript, Python, C++ (varies by problem)
+- **Difficulty Breakdown:**
+  - 🟢 Easy: X
+  - 🟡 Medium: Y
+  - 🔴 Hard: Z
+
+---
+
+## 📂 Repository Structure
+
+
 # LeetCode Topics
 ## Array
 |  |
