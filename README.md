@@ -15,6 +15,11 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Adinathmk/Leet-code/tree/master/0326-power-of-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3515-find-if-digit-game-can-be-won) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Adinathmk/Leet-code/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
