@@ -11,6 +11,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adinathmk/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Adinathmk/Leet-code/tree/master/0136-single-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Math
@@ -32,5 +33,6 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Adinathmk/Leet-code/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
