@@ -18,6 +18,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Adinathmk/Leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/Adinathmk/Leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
@@ -40,10 +41,15 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Adinathmk/Leet-code/tree/master/0171-excel-sheet-column-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
