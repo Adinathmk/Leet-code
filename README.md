@@ -10,6 +10,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Adinathmk/Leet-code/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Adinathmk/Leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adinathmk/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Adinathmk/Leet-code/tree/master/0136-single-number) |
@@ -20,6 +21,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Adinathmk/Leet-code/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Adinathmk/Leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/Adinathmk/Leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
