@@ -14,6 +14,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0118-pascals-triangle](https://github.com/Adinathmk/Leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adinathmk/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Adinathmk/Leet-code/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -57,6 +58,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +67,8 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
