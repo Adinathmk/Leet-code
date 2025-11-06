@@ -31,6 +31,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Adinathmk/Leet-code/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +91,8 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adinathmk/Leet-code/tree/master/0035-search-insert-position) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Adinathmk/Leet-code/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
