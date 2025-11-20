@@ -54,6 +54,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0014-longest-common-prefix](https://github.com/Adinathmk/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adinathmk/Leet-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Adinathmk/Leet-code/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Adinathmk/Leet-code/tree/master/0171-excel-sheet-column-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adinathmk/Leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
