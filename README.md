@@ -24,6 +24,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Adinathmk/Leet-code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Adinathmk/Leet-code/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Adinathmk/Leet-code/tree/master/0171-excel-sheet-column-number) |
