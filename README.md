@@ -10,6 +10,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adinathmk/Leet-code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Adinathmk/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Adinathmk/Leet-code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Adinathmk/Leet-code/tree/master/0066-plus-one) |
@@ -66,6 +67,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adinathmk/Leet-code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
 ## Two Pointers
