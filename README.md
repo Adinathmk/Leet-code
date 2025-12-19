@@ -21,6 +21,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adinathmk/Leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Adinathmk/Leet-code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Adinathmk/Leet-code/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Recursion
