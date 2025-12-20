@@ -33,6 +33,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0326-power-of-three](https://github.com/Adinathmk/Leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/Adinathmk/Leet-code/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Adinathmk/Leet-code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3515-find-if-digit-game-can-be-won) |
