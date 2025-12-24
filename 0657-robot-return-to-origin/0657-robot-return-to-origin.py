@@ -1,16 +1,15 @@
 class Solution:
     def judgeCircle(self, moves: str) -> bool:
-        pos=[0,0]
+        x = y = 0
+
         for move in moves:
-            if move=='L':
-                pos[0]=pos[0]-1
-            elif move=='R':
-                pos[0]=pos[0]+1
-            elif move=='U':
-                pos[1]=pos[1]+1
-            else:
-                pos[1]=pos[1]-1
-        return pos==[0,0]
-            
-            
-            
+            if move == 'L':
+                x -= 1
+            elif move == 'R':
+                x += 1
+            elif move == 'U':
+                y += 1
+            elif move == 'D':
+                y -= 1
+
+        return x == 0 and y == 0
