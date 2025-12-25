@@ -57,6 +57,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Adinathmk/Leet-code/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Adinathmk/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adinathmk/Leet-code/tree/master/0020-valid-parentheses) |
