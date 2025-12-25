@@ -2,6 +2,7 @@ class Solution:
     def convert(self, s: str, numRows: int) -> str:
         if numRows == 1 or numRows >= len(s):
             return s
+
         res = [[] for _ in range(numRows)]
         row = 0
         direction = 1  # +1 = down, -1 = up
