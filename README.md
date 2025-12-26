@@ -67,6 +67,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0657-robot-return-to-origin](https://github.com/Adinathmk/Leet-code/tree/master/0657-robot-return-to-origin) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adinathmk/Leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3019-number-of-changing-keys](https://github.com/Adinathmk/Leet-code/tree/master/3019-number-of-changing-keys) |
 ## Simulation
 |  |
 | ------- |
