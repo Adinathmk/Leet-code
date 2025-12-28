@@ -11,6 +11,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adinathmk/Leet-code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Adinathmk/Leet-code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Adinathmk/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Adinathmk/Leet-code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Adinathmk/Leet-code/tree/master/0066-plus-one) |
@@ -82,6 +83,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Adinathmk/Leet-code/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adinathmk/Leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
@@ -108,4 +110,8 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Adinathmk/Leet-code/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Adinathmk/Leet-code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
