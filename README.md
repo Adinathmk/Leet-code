@@ -20,6 +20,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0136-single-number](https://github.com/Adinathmk/Leet-code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
 | [1550-three-consecutive-odds](https://github.com/Adinathmk/Leet-code/tree/master/1550-three-consecutive-odds) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adinathmk/Leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -34,6 +35,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0171-excel-sheet-column-number](https://github.com/Adinathmk/Leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/Adinathmk/Leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Adinathmk/Leet-code/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Adinathmk/Leet-code/tree/master/2769-find-the-maximum-achievable-number) |
