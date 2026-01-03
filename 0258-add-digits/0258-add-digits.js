@@ -4,12 +4,12 @@
     */
    var addDigits = function(num) {
     while (num >= 10) {
-        let sum = 0;
+        let summ = 0;
         while (num > 0) {
-            sum += num % 10;
+            summ += num % 10;
             num = Math.floor(num / 10);
         }
-        num = sum;
+        num = summ;
     }
     return num;
 };
