@@ -33,6 +33,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Adinathmk/Leet-code/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Adinathmk/Leet-code/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/Adinathmk/Leet-code/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Adinathmk/Leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -75,6 +76,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Adinathmk/Leet-code/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Adinathmk/Leet-code/tree/master/0657-robot-return-to-origin) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -112,6 +114,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Adinathmk/Leet-code/tree/master/0258-add-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Adinathmk/Leet-code/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
