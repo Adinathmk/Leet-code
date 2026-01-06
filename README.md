@@ -32,6 +32,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0009-palindrome-number](https://github.com/Adinathmk/Leet-code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Adinathmk/Leet-code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Adinathmk/Leet-code/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Adinathmk/Leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Adinathmk/Leet-code/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Adinathmk/Leet-code/tree/master/0326-power-of-three) |
@@ -57,6 +58,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Adinathmk/Leet-code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Adinathmk/Leet-code/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
 ## String
@@ -68,6 +70,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0020-valid-parentheses](https://github.com/Adinathmk/Leet-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Adinathmk/Leet-code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Adinathmk/Leet-code/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Adinathmk/Leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Adinathmk/Leet-code/tree/master/0657-robot-return-to-origin) |
@@ -77,6 +80,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Adinathmk/Leet-code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Adinathmk/Leet-code/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Adinathmk/Leet-code/tree/master/0657-robot-return-to-origin) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
