@@ -5,6 +5,7 @@
  */
 var searchInsert = function(nums, target) {
     for(i=0;i<nums.length;i++){
+        a=1
         if(nums[i]===target){
             return i
         }
