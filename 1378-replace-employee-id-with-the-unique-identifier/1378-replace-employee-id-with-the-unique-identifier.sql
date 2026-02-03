@@ -1,0 +1,5 @@
+SELECT unique_id , name
+FROM EMPLOYEES e
+LEFT JOIN EMPLOYEEUNI u
+ON e.id=u.id
+
