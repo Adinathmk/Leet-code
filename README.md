@@ -8,8 +8,8 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Adinathmk/Leet-code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Adinathmk/Leet-code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Adinathmk/Leet-code/tree/master/0014-longest-common-prefix) |
@@ -27,8 +27,8 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [3232-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/Adinathmk/Leet-code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Adinathmk/Leet-code/tree/master/0066-plus-one) |
@@ -46,24 +46,24 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [3515-find-if-digit-game-can-be-won](https://github.com/Adinathmk/Leet-code/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Adinathmk/Leet-code/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0326-power-of-three](https://github.com/Adinathmk/Leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Adinathmk/Leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adinathmk/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/Adinathmk/Leet-code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Adinathmk/Leet-code/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Adinathmk/Leet-code/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Adinathmk/Leet-code/tree/master/0014-longest-common-prefix) |
@@ -78,60 +78,60 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adinathmk/Leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/Adinathmk/Leet-code/tree/master/3019-number-of-changing-keys) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/Adinathmk/Leet-code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Adinathmk/Leet-code/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Adinathmk/Leet-code/tree/master/0657-robot-return-to-origin) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Adinathmk/Leet-code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Adinathmk/Leet-code/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adinathmk/Leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Adinathmk/Leet-code/tree/master/0014-longest-common-prefix) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Adinathmk/Leet-code/tree/master/0020-valid-parentheses) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0035-search-insert-position](https://github.com/Adinathmk/Leet-code/tree/master/0035-search-insert-position) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/Adinathmk/Leet-code/tree/master/0258-add-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Adinathmk/Leet-code/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Adinathmk/Leet-code/tree/master/0011-container-with-most-water) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
