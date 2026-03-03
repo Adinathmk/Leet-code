@@ -134,4 +134,8 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1075-project-employees-i](https://github.com/Adinathmk/Leet-code/tree/main/1075-project-employees-i/) | Easy |
 <!---LeetCode Topics End-->
