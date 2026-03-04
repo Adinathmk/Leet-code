@@ -137,5 +137,6 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Adinathmk/Leet-code/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [1075-project-employees-i](https://github.com/Adinathmk/Leet-code/tree/main/1075-project-employees-i/) | Easy |
 <!---LeetCode Topics End-->
