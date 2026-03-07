@@ -139,5 +139,6 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Adinathmk/Leet-code/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/Adinathmk/Leet-code/tree/main/0197-rising-temperature/) | Easy |
+| [0610-triangle-judgement](https://github.com/Adinathmk/Leet-code/tree/main/0610-triangle-judgement/) | Easy |
 | [1075-project-employees-i](https://github.com/Adinathmk/Leet-code/tree/main/1075-project-employees-i/) | Easy |
 <!---LeetCode Topics End-->
