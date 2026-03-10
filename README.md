@@ -141,4 +141,5 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0197-rising-temperature](https://github.com/Adinathmk/Leet-code/tree/main/0197-rising-temperature/) | Easy |
 | [0610-triangle-judgement](https://github.com/Adinathmk/Leet-code/tree/main/0610-triangle-judgement/) | Easy |
 | [1075-project-employees-i](https://github.com/Adinathmk/Leet-code/tree/main/1075-project-employees-i/) | Easy |
+| [1280-students-and-examinations](https://github.com/Adinathmk/Leet-code/tree/main/1280-students-and-examinations/) | Easy |
 <!---LeetCode Topics End-->
