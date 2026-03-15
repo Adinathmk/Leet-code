@@ -4,6 +4,7 @@
  */
  var isValid = function(s) {
     let stack = [];
+    a=1;
     let map = {
         ")": "(",
         "}": "{",
