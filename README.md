@@ -19,6 +19,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adinathmk/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Adinathmk/Leet-code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Adinathmk/Leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Adinathmk/Leet-code/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -96,6 +97,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Adinathmk/Leet-code/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/Adinathmk/Leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adinathmk/Leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
 | Problem Name | Difficulty |
