@@ -20,6 +20,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0136-single-number](https://github.com/Adinathmk/Leet-code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Adinathmk/Leet-code/tree/main/0283-move-zeroes/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adinathmk/Leet-code/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Adinathmk/Leet-code/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -75,6 +76,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0171-excel-sheet-column-number](https://github.com/Adinathmk/Leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Adinathmk/Leet-code/tree/master/0657-robot-return-to-origin) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adinathmk/Leet-code/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Adinathmk/Leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adinathmk/Leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/Adinathmk/Leet-code/tree/master/3019-number-of-changing-keys) |
@@ -92,6 +94,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adinathmk/Leet-code/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +139,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adinathmk/Leet-code/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
