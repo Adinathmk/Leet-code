@@ -13,6 +13,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0001-two-sum](https://github.com/Adinathmk/Leet-code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Adinathmk/Leet-code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Adinathmk/Leet-code/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Adinathmk/Leet-code/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Adinathmk/Leet-code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Adinathmk/Leet-code/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Adinathmk/Leet-code/tree/master/0118-pascals-triangle) |
@@ -99,6 +100,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Adinathmk/Leet-code/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Adinathmk/Leet-code/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Adinathmk/Leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adinathmk/Leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
