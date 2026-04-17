@@ -19,6 +19,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0118-pascals-triangle](https://github.com/Adinathmk/Leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adinathmk/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Adinathmk/Leet-code/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathmk/Leet-code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Adinathmk/Leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adinathmk/Leet-code/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -102,6 +103,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0011-container-with-most-water](https://github.com/Adinathmk/Leet-code/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Adinathmk/Leet-code/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathmk/Leet-code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Adinathmk/Leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adinathmk/Leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
@@ -124,6 +126,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Adinathmk/Leet-code/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathmk/Leet-code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
