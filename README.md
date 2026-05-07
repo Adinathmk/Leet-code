@@ -21,6 +21,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0136-single-number](https://github.com/Adinathmk/Leet-code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathmk/Leet-code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Adinathmk/Leet-code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Adinathmk/Leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adinathmk/Leet-code/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Adinathmk/Leet-code/tree/master/1550-three-consecutive-odds) |
@@ -95,6 +96,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0001-two-sum](https://github.com/Adinathmk/Leet-code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Adinathmk/Leet-code/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Adinathmk/Leet-code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adinathmk/Leet-code/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 ## Two Pointers
@@ -155,4 +157,8 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [1280-students-and-examinations](https://github.com/Adinathmk/Leet-code/tree/main/1280-students-and-examinations/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Adinathmk/Leet-code/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/Adinathmk/Leet-code/tree/main/1965-employees-with-missing-information/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Adinathmk/Leet-code/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
