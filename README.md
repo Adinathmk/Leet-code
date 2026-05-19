@@ -40,6 +40,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0067-add-binary](https://github.com/Adinathmk/Leet-code/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Adinathmk/Leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Adinathmk/Leet-code/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Adinathmk/Leet-code/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Adinathmk/Leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -161,4 +162,12 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Adinathmk/Leet-code/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Adinathmk/Leet-code/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Adinathmk/Leet-code/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
