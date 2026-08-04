@@ -24,6 +24,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0219-contains-duplicate-ii](https://github.com/Adinathmk/Leet-code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Adinathmk/Leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Adinathmk/Leet-code/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Adinathmk/Leet-code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adinathmk/Leet-code/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Adinathmk/Leet-code/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Adinathmk/Leet-code/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -100,6 +101,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | [0217-contains-duplicate](https://github.com/Adinathmk/Leet-code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adinathmk/Leet-code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Adinathmk/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Adinathmk/Leet-code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adinathmk/Leet-code/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -179,4 +181,5 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Adinathmk/Leet-code/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Adinathmk/Leet-code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
