@@ -57,6 +57,7 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Adinathmk/Leet-code/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0326-power-of-three](https://github.com/Adinathmk/Leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adinathmk/Leet-code/tree/master/0342-power-of-four) |
 ## Dynamic Programming
@@ -184,4 +185,8 @@ It serves as a portfolio of my skills in **data structures**, **algorithms**, an
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Adinathmk/Leet-code/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Adinathmk/Leet-code/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Adinathmk/Leet-code/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
